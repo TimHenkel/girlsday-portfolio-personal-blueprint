@@ -22,7 +22,7 @@ function App() {
               <TiSocialLinkedinCircular color="#fff"/>
             </Group>
           </Stack>
-          <Image src="/profile-image.jpeg" maw={240} radius="120px" />
+          <Image src="/girlsday-portfolio-blueprint/profile-image.jpeg" maw={240} radius="120px" />
         </Group>
       </Container>
     </MantineProvider>
