@@ -1,7 +1,3 @@
-This is a Blueprint for the Girlsday at BITRGIP
-
-Willkommen Part:
-
 Willkommen bei BITGRIP!
 Wir freuen uns, dass du an unserem Girls Day-Event teilnimmst. Wie du bereits weißt, spezialisiert sich unser Unternehmen auf die Erstellung innovativer Websiten und Softwarelösungen für Unternehmen und Organisationen. Und wir haben gerade eine aufregende Möglichkeit erhalten: Die renommierte Schule Nevermore Academy, die durch Wednesday Addams berühmt geworden ist, hat uns gebeten, ihnen bei der Erstellung einer Website zu helfen, um ihre Schülerinnen und Schüler zu präsentieren.
 
@@ -12,8 +8,14 @@ Und keine Sorge unser Team von Experten wird dich durch den Prozess der Entwickl
 Also dann, nochmal herzlich Willkommen bei BITGRIP. Wir können kaum erwarten zu sehen, was du erschaffen wirst!
 
 
-LET'S GET STARTED:
+SO FÄNGST DU AN:
 
-1. login with your github profile --> 
-2. run pnpm i (this will setup all dependencies and well... don't worry about it - it's some coding magic that will help you succesfully create your website)
-3. go to src > App.tsx --> this is the main part of your website and here you can add all the components you want
+1. melde dich mit deinem ganz persönlichen Github Profil an: gh auth login
+2. Gib deine Emailadresse ein
+3. Gib deinen Nutzernamen ein
+4. danach gib folgendes Kommando ein: pnpm i
+5. geh zu "src" > "App.tsx" --> Hier kannst du deine ganz persönliche Webseite anpassen
+6. such dir deine Komponenten aus: https://mantine.dev/pages/getting-started/
+
+
+Für alles weitere stehen wir dir mit Rat und Tat zur Verfügung. Viel Spaß!
